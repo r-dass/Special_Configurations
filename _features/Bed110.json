@@ -1,0 +1,14 @@
+{
+    "Configuration.h" : [
+      {
+        "op": "CustomVal",
+        "searchfor": "BED_MAXTEMP",
+        "value": "120",
+        "comment": "Custom - Reach up to 110 degrees for ABS"
+      }
+    ],
+    "Configuration_adv.h" : [
+    ],
+    "Version.h" : [
+    ]   
+    }
