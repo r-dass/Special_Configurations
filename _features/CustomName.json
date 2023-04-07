@@ -1,0 +1,13 @@
+{
+    "Configuration.h" : [
+      {
+        "op": "Replace",
+        "searchfor": "//#define CUSTOM_MACHINE_NAME \"3D Printer\"",
+        "value": "#define CUSTOM_MACHINE_NAME \"RD-3D-PRINTER\""
+      }
+    ],
+    "Configuration_adv.h" : [
+    ],
+    "Version.h" : [
+    ]   
+    }
